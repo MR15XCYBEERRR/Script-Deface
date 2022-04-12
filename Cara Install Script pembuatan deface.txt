@@ -1,0 +1,16 @@
+# Cara install script-Deface
+
+pkg update && pkg  upgrade
+
+pkg install python
+
+pkg install git
+
+pip install request
+
+git clone https://github.com/MR15XCYBEERRR/Script-Deface
+
+cd Script-Deface
+
+python Script.py
+
